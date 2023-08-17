@@ -1,13 +1,84 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.navbar-toggler-icon{
+  background-image: url('./image//icon-menu.svg') !important;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.navbar-toggler{
+  border: none !important;
+}
+
+.fl{
+  display: flex !important;
+flex-direction: row !important;
+}
+
+#bor{
+  border-radius: 10px !important;
+}
+
+.bor{
+  border-color: blueviolet !important;
+  border: 5px solid black !important;
+}
+
+.carousel-control-next-icon{
+  background-image: url('./image//icon-next.svg') !important;
+  border-radius: 50px !important;
+  border: 10px solid  hsl(0, 0%, 100%) !important;
+  background-color:  hsl(0, 0%, 100%) !important;
+  
+}
+
+.carousel-control-prev-icon{
+  background-image: url('./image//icon-previous.svg') !important;
+  border-radius: 50px !important;
+  border: 10px solid hsl(0, 0%, 100%) !important;
+  background-color: hsl(0, 0%, 100%) !important;
+  
+  
+}
+
+.orange{
+  color: hsl(26, 100%, 55%) !important;
+}
+
+.weight{
+  font-weight: 700 !important;
+  
+  
+   
+}
+
+h6{
+  color: hsl(219, 9%, 45%) !important;
+}
+
+
+
+.addplace{
+  background: hsl(223, 64%, 98%) !important;
+  border-radius: 10px !important;
+  
+}
+
+.cart{
+  background: hsl(26, 100%, 55%) !important;
+  border-color: hsl(26, 100%, 55%) !important;
+}
+
+.fsize{
+  font-size: 16px !important;
+  font-weight: 400 !important;
+}
+
+  .fbig{
+  font-size: 45px !important;
+ 
+}
+
+
+
+.fifty{
+  background: hsl(25, 100%, 94%) !important;
+  font-size: 700 !important;
+  color: hsl(26, 100%, 55%) !important;
 }
