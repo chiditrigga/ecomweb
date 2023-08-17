@@ -157,7 +157,7 @@ const addtocart = () => {
                 </Col>
 
                 <Col md={6} className='p-lg-5 px-md-3 align-self-md-center' >
-                    <h5  className='orange pt-md-5'>SNEAKER COMPANYs</h5>
+                    <h5  className='orange pt-md-5'>SNEAKER COMPANY</h5>
                     <h2 className='weight pb-md-3 fbig' >Fall Limited Edition Sneakers</h2>
 
                     <h6 className='pb-md-4 fsize'> These low-profile sneakers are your perfect casual wearcompanion. Featuring a durable rubber outer sole. They'll withstand everything the weather can offer.</h6>
